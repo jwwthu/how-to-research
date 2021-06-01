@@ -73,6 +73,24 @@ This is the repository for the collection of instrunctions about how to research
 
 * [PaperWritingTips (in Chinese)](https://github.com/cooelf/PaperWritingTips)
 
+* [摘要与引言基本要求 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490721&idx=1&sn=54d97db25fc68b4be1dcd12321df5a1b)
+
+## Scientific Talk
+* [Boosting the signal in scientific talks](https://www.nature.com/articles/d41586-020-00838-3) [Chinese Translation](http://news.sciencenet.cn/htmlnews/2020/7/443395.shtm)
+> + Read the room.
+> + Be clear about your main message.
+> + Deliver your takeaway at the start.
+> + Make a plan.
+> + Storyboard your presentation.
+> + Be kind to your audience.
+> + Allow your audience to listen, not read.
+> + Use pictures to connect on a human level.
+> + Create visuals for the back row.
+> + Simplify and enlarge.
+> + Explain your figures. 
+> + Write ‘sentence headline’ titles.
+> + Use a lot of slides if you want.
+
 ## Computer Science Case
 * [INFORMS Journal on Data Science (IJDS) Editorial #1: What Is an IJDS Paper?](https://pubsonline.informs.org/doi/10.1287/ijds.2020.003)
 > An IJDS paper will have four ingredients, data + methodology + decisions + implications, but the key is the synthesis of the ingredients, anchored to methodology. Here is one potential approach for such synthesis that will be familiar to many in our community:
