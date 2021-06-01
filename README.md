@@ -34,7 +34,7 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [How to research-中科大-周正阳 (in Chinese)](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf)
 
-#### [专访＠爱可可-爱生活：如何做好科学研究（干货满满）-北邮-陈光 (in Chinese)](https://new.qq.com/omn/20210417/20210417A07I2000.html)
+#### [专访＠爱可可-爱生活：如何做好科学研究（干货满满）-北邮-陈光](https://new.qq.com/omn/20210417/20210417A07I2000.html)
 
 #### [实例分享| 导师书写的PhD Proposal（博士研究提案）](https://mp.weixin.qq.com/s?__biz=MzA5ODcwNTQxMA==&mid=2650854069&idx=2&sn=7cc68999f2b57b2595b2bad41b6ae855)
 
@@ -130,9 +130,9 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [长江学者程啸：如何写好文献综述？](https://mp.weixin.qq.com/s?__biz=Mzg5MjU2NjY5OA==&mid=2247491346&idx=1&sn=a5a3f79f37ce766c59e285c2a6c0c1b5)
 
-#### [摘要与引言基本要求 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490721&idx=1&sn=54d97db25fc68b4be1dcd12321df5a1b)
+#### [摘要与引言基本要求](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490721&idx=1&sn=54d97db25fc68b4be1dcd12321df5a1b)
 
-#### [论文引言撰写与投稿自查-北交大-贺正冰 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzkxMDE5MjgzMw==&mid=2247485707&idx=1&sn=df197290e0f7fb8d5f66f57c878ef8d5)
+#### [论文引言撰写与投稿自查-北交大-贺正冰](https://mp.weixin.qq.com/s?__biz=MzkxMDE5MjgzMw==&mid=2247485707&idx=1&sn=df197290e0f7fb8d5f66f57c878ef8d5)
 
 #### [【实用工具】技术人如何写好英文论文？](https://mp.weixin.qq.com/s?__biz=MzIyNDY5NjEzNQ==&mid=2247487572&idx=1&sn=d5677c80a6d5a2087a2ec2f523fc9a53)
 
