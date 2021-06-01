@@ -8,6 +8,7 @@ This is the repository for the collection of instrunctions about how to research
 >> Look for questions, not subjects.
 >> Mentoring is as important as research.
 >> Reach out with confidence.
+
 > Get the most out of the experience
 >> Start your research with reading, and keep on reading.
 >> Set specific goals for yourself and let your mentors know.
