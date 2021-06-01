@@ -30,13 +30,24 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [Advice for Academic Research-Northwestern University-Ricardo Dahis](https://www.ricardodahis.com/files/papers/Dahis_Advice_Research.pdf)
 
+#### [Syllabus for Eric's PhD students (Google docs)](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
+
 #### [How to research-中科大-周正阳 (in Chinese)](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf)
 
 #### [专访＠爱可可-爱生活：如何做好科学研究（干货满满）-北邮-陈光 (in Chinese)](https://new.qq.com/omn/20210417/20210417A07I2000.html)
 
+#### [实例分享| 导师书写的PhD Proposal（博士研究提案）](https://mp.weixin.qq.com/s?__biz=MzA5ODcwNTQxMA==&mid=2650854069&idx=2&sn=7cc68999f2b57b2595b2bad41b6ae855)
+
+#### [如何书写选题报告](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490286&idx=1&sn=00fa9d7ee91bd5b0251edc45b79c5e7e)
+
 ## Paper Reading
 #### [How to Read a Paper-University of Waterloo-S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 > Researchers spend a great deal of time reading research papers. However, this skill is rarely taught, leading to much wasted effort. This article outlines a practical and efficient three-pass method for reading research papers. I also describe how to use this method to do a literature survey.
+
+#### [How to (seriously) read a scientific paper-Science Careers](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
+* [Chinese Translation](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490036&idx=1&sn=91ab19d9f37c051c7458986e478f5837)
+
+#### [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649454421&idx=1&sn=1a4831f50d6982b9b9e10615d280a306)
 
 ## Paper Writing
 #### MIT Biological Engineering Communication Lab: How to go about writing a paper. 
@@ -101,13 +112,29 @@ This is the repository for the collection of instrunctions about how to research
 #### [How to Write a Research Manuscript-Washington University in St. Louis-Deborah J. Frank](https://currentprotocols.onlinelibrary.wiley.com/doi/pdf/10.1002/cpet.20)
 > This article provides a step-by-step guide to help you turn your high-quality data into a high-quality manuscript for publication in a scientific journal. It covers all aspects of the writing process, including: choosing a journal to which to submit your paper, writing each section, formulating your “story,” making figures, soliciting constructive criticism, and navigating the review process.
 
+#### [How to get your research published-Journal of Organics](https://philpapers.org/rec/PAUHTG)
+> Make it easy to say 'yes'. The first rule to get your research published is to make life easy for the editor and the reviewers. The task for an author is ultimately a narrative task - to succinctly and engagingly tell the story of what you did, why you did it, what you found, and why we should care - and making it clear why the paper is within the scope of the journal. The more carefully and meticulously a paper is prepared - including spelling, punctuation, grammar, structure, completeness and internal consistency - the more likely it is to be published and the quicker it will appear in print.
+
+#### [Writing a literature review-Catherine L Winchester and Mark Salji](https://journals.sagepub.com/doi/full/10.1177/2051415816650133)
+> Formal literature reviews are a critical appraisal of a subject and are not only an academic requirement but essential when planning a research project and for placing research findings into context. Understanding the landscape in which you are working will enable you to make a valuable contribution to your field. Writing a literature review requires a range of skills to gather, sort, evaluate and summarise peer-reviewed published data into a relevant and informative unbiased narrative. Digital access to research papers, academic texts, review articles, reference databases and public data sets are all sources of information that are available to enrich your review.
+
+#### [How to Write a Literature Review Paper?-Transport Reviews](https://www.tandfonline.com/doi/full/10.1080/01441647.2015.1065456)
+> This paper discusses the question about how to write a literature review paper (LRP). It stresses the primary importance of adding value, rather than only providing an overview, and it then discusses some of the reasons for (or not) actually writing an LRP, including issues relating to the nature and scope of the paper. It also presents different types of LRPs, advises on reporting the methodology used for the selection of papers for review, and the structure of an LRP. An important conclusion is that the heterogeneity in LRPs is very large. This paper also presents some of the aspects that the authors feel are important structural and contextual considerations that help produce high-quality review papers.
+
+#### [How to write a superb literature review-Nature career feature article](https://www.nature.com/articles/d41586-020-03422-x)
+* [Chinese Translation](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247526117&idx=4&sn=5a8a6295265e0f634659aaf8bdf00606)
+
 #### [Strategies for writing a research paper-José António C. Santos, Margarida Custódio Santos](http://tmstudies.net/index.php/ectms/article/view/752)
 
 #### [PaperWritingTips (in Chinese)](https://github.com/cooelf/PaperWritingTips)
 
+#### [长江学者程啸：如何写好文献综述？](https://mp.weixin.qq.com/s?__biz=Mzg5MjU2NjY5OA==&mid=2247491346&idx=1&sn=a5a3f79f37ce766c59e285c2a6c0c1b5)
+
 #### [摘要与引言基本要求 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490721&idx=1&sn=54d97db25fc68b4be1dcd12321df5a1b)
 
 #### [论文引言撰写与投稿自查-北交大-贺正冰 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzkxMDE5MjgzMw==&mid=2247485707&idx=1&sn=df197290e0f7fb8d5f66f57c878ef8d5)
+
+#### [【实用工具】技术人如何写好英文论文？](https://mp.weixin.qq.com/s?__biz=MzIyNDY5NjEzNQ==&mid=2247487572&idx=1&sn=d5677c80a6d5a2087a2ec2f523fc9a53)
 
 ### Computer Science Case
 #### [INFORMS Journal on Data Science (IJDS) Editorial #1: What Is an IJDS Paper?](https://pubsonline.informs.org/doi/10.1287/ijds.2020.003)
@@ -123,7 +150,13 @@ This is the repository for the collection of instrunctions about how to research
 >> + If you choose to include a photo, it should be a professional, high-quality headshot. Note that while photos are optional, if they are included, they will be published.
 >> + Remember, biographies and photos cannot be edited or removed after article publication.
 
+#### [机器翻译学术论文写作方法和技巧-清华大学-刘洋](https://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+
 ## Paper Review and Response
+#### [4 Archetype Reasons for Editorial Rejection](https://www.sciencedirect.com/science/article/pii/S2590238519303923)
+* Chinese Summary(https://mp.weixin.qq.com/s?__biz=MzIyMjYzMzAxNw==&mid=2247527858&idx=5&sn=63da2c0c4f84de8614543eb80321292e)
+> What makes an innovative materials study? Conceptual novelty is intrinsically difficult to quantify. There are common pitfalls that lead to rejection without review, leading to an editorial shorthand of archetype rejections. Here, we describe the most common reasons for rejection at Matter.
+
 #### IEEE Author Education course: [Tips for Responding to Reviewers' Comments (video)](https://ieeetv18.ieee.org/video/tips-for-responding-to-reviewers-comments)
 
 #### CVPR 2020 Tutorial: How to write a good review?
@@ -135,6 +168,10 @@ This is the repository for the collection of instrunctions about how to research
 * [Video (Youtube)](https://youtu.be/W1zPtTt43LI)
 * [Video backup (Bilibili)](https://www.bilibili.com/video/BV1ef4y1y7bB)
 * [Chinese Summary](https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247513028&idx=1&sn=e1eefa6b103af25f51af922bbb17fd02)
+
+#### [精华帖！7年投稿经验总结教你回复审稿意见](https://mp.weixin.qq.com/s?__biz=MzU5MzkyNjY3Mg==&mid=2247486198&idx=1&sn=88c3da7045510755fabb14cb7cfa67ff)
+
+#### [学术论文投稿与返修（Rebuttal）分享-武汉大学-叶茫](https://zhuanlan.zhihu.com/p/344008879)
 
 ### Computer Science Case
 #### [ACL 2017-LAST MINUTE REVIEWING ADVICE](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/)
@@ -170,6 +207,3 @@ This is the repository for the collection of instrunctions about how to research
 > + Explain your figures. 
 > + Write ‘sentence headline’ titles.
 > + Use a lot of slides if you want.
-
-
-
