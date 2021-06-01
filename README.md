@@ -77,7 +77,7 @@ This is the repository for the collection of instrunctions about how to research
 >> + Structure your manuscript and what to include in each section
 >> + Get the most out of your tables and figures so that they clearly represent your most important results.
 
-#### IEEE Author Education course: [Tips for Responding to Reviewers' Comments (video)](https://ieeetv18.ieee.org/video/tips-for-responding-to-reviewers-comments)
+#### [My Research Essentials-How to get published in academic journals (slides)](https://www.escholar.manchester.ac.uk/learning-objects/mre/getting-published/story_html5.html)
 
 #### [How To Write an Awesome Abstract](https://bitesizebio.com/13661/how-to-write-an-awesome-abstract/)
 > + Background (2-3 sentences): Provide just enough background to “set the scene” – the bare minimum necessary to make what follows understandable.
@@ -104,6 +104,44 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [论文引言撰写与投稿自查-北交大-贺正冰 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzkxMDE5MjgzMw==&mid=2247485707&idx=1&sn=df197290e0f7fb8d5f66f57c878ef8d5)
 
+### Computer Science Case
+#### [INFORMS Journal on Data Science (IJDS) Editorial #1: What Is an IJDS Paper?](https://pubsonline.informs.org/doi/10.1287/ijds.2020.003)
+> An IJDS paper will have four ingredients, data + methodology + decisions + implications, but the key is the synthesis of the ingredients, anchored to methodology. Here is one potential approach for such synthesis that will be familiar to many in our community:
+>> Fired by a managerial/industrial decision-making motivation and potential/actual impact, the paper introduces aninnovative data sciencemethodology (model/algorithm/ approach), applies it to data (real-world and/or simulated) to illustrate its usefulness and behavior, and considers practical (e.g., computation, implementation) and ethical (e.g., societal, environmental) implications.
+
+#### IEEE Author Biography Guide
+> Each author may include a photo and biography in their article, although photos and biographies are often omitted from conference-related articles. Follow these tips for writing your biography.
+>> + If you are an IEEE member, list your status and the corresponding year in parentheses immediately after your name; for example, (M'01-SM'05-F'15) denotes that you became an IEEE Member (M) in 2001, a Senior Member (SM) in 2005, and a Fellow (F) in 2015.
+>> + The first paragraph may contain your place and/or date of birth, followed by your educational background. Degrees should be listed with the type of degree in what field, which institutions, city, state, and country, and the year the degree was earned. Your major field of study should be in the lower-case.
+>> + The second paragraph lists military and work experience, with job titles capitalized. Include a location for your current job. List no more than three published books or articles. Include a list of current and previous research interests. In the second paragraph, use the appropriate pronoun and not your last name.
+>> + The third paragraph begins with your title and last name (e.g., Dr. Smith, Prof. Chen) and lists any memberships in professional societies other than IEEE. List any awards and work for IEEE committees and publications.
+>> + If you choose to include a photo, it should be a professional, high-quality headshot. Note that while photos are optional, if they are included, they will be published.
+>> + Remember, biographies and photos cannot be edited or removed after article publication.
+
+## Paper Review and Response
+#### IEEE Author Education course: [Tips for Responding to Reviewers' Comments (video)](https://ieeetv18.ieee.org/video/tips-for-responding-to-reviewers-comments)
+
+#### CVPR 2020 Tutorial: How to write a good review?
+* [Websites](https://sites.google.com/view/making-reviews-great-again/)
+> + Session 1: How to write a good paper
+> + Session 2: How to write a good review
+> + Session 3: How to write a good rebuttal?
+> + Session 4: How are reviews used in the decision process?
+* [Video (Youtube)](https://youtu.be/W1zPtTt43LI)
+* [Video backup (Bilibili)](https://www.bilibili.com/video/BV1ef4y1y7bB)
+* [Chinese Summary](https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247513028&idx=1&sn=e1eefa6b103af25f51af922bbb17fd02)
+
+### Computer Science Case
+#### [ACL 2017-LAST MINUTE REVIEWING ADVICE](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/)
+
+#### [NAACL 2018-A Review Form FAQ](https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/)
+
+#### [NeurlPS 2019-Reviewer Guidelines](https://nips.cc/Conferences/2019/PaperInformation/ReviewerGuidelines)
+
+#### [ICML 2020 Reviewer Guidelines](https://icml.cc/Conferences/2020/ReviewerGuidelines)
+
+#### [peer reviewing your first paper](https://patthomson.net/2019/10/14/reviewing-your-first-paper/)
+
 ## Scientific Talk
 #### [Boosting the signal in scientific talks](https://www.nature.com/articles/d41586-020-00838-3) [Chinese Translation](http://news.sciencenet.cn/htmlnews/2020/7/443395.shtm)
 > + Read the room.
@@ -120,16 +158,5 @@ This is the repository for the collection of instrunctions about how to research
 > + Write ‘sentence headline’ titles.
 > + Use a lot of slides if you want.
 
-## Computer Science Case
-#### [INFORMS Journal on Data Science (IJDS) Editorial #1: What Is an IJDS Paper?](https://pubsonline.informs.org/doi/10.1287/ijds.2020.003)
-> An IJDS paper will have four ingredients, data + methodology + decisions + implications, but the key is the synthesis of the ingredients, anchored to methodology. Here is one potential approach for such synthesis that will be familiar to many in our community:
->> Fired by a managerial/industrial decision-making motivation and potential/actual impact, the paper introduces aninnovative data sciencemethodology (model/algorithm/ approach), applies it to data (real-world and/or simulated) to illustrate its usefulness and behavior, and considers practical (e.g., computation, implementation) and ethical (e.g., societal, environmental) implications.
 
-#### IEEE Author Biography Guide
-> Each author may include a photo and biography in their article, although photos and biographies are often omitted from conference-related articles. Follow these tips for writing your biography.
->> + If you are an IEEE member, list your status and the corresponding year in parentheses immediately after your name; for example, (M'01-SM'05-F'15) denotes that you became an IEEE Member (M) in 2001, a Senior Member (SM) in 2005, and a Fellow (F) in 2015.
->> + The first paragraph may contain your place and/or date of birth, followed by your educational background. Degrees should be listed with the type of degree in what field, which institutions, city, state, and country, and the year the degree was earned. Your major field of study should be in the lower-case.
->> + The second paragraph lists military and work experience, with job titles capitalized. Include a location for your current job. List no more than three published books or articles. Include a list of current and previous research interests. In the second paragraph, use the appropriate pronoun and not your last name.
->> + The third paragraph begins with your title and last name (e.g., Dr. Smith, Prof. Chen) and lists any memberships in professional societies other than IEEE. List any awards and work for IEEE committees and publications.
->> + If you choose to include a photo, it should be a professional, high-quality headshot. Note that while photos are optional, if they are included, they will be published.
->> + Remember, biographies and photos cannot be edited or removed after article publication.
+
