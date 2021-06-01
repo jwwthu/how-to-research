@@ -16,6 +16,15 @@ This is the repository for the collection of instrunctions about how to research
 >> + Find financial support.
 >> + Always think about the big picture.
 
+## Paper Writing
+* Springer Nature Author tutorials: [Writing a journal manuscript](https://www.springernature.com/gp/authors/campaigns/writing-a-manuscript)
+> By the end of the tutorial you should know on how to:
+>> + Prepare prior to starting your research
+>> + Structure your manuscript and what to include in each section
+>> + Get the most out of your tables and figures so that they clearly represent your most important results.
+
+* [PaperWritingTips (in Chinese)](https://github.com/cooelf/PaperWritingTips)
+
 ## Computer Science Case
 * [INFORMS Journal on Data Science (IJDS) Editorial #1: What Is an IJDS Paper?](https://pubsonline.informs.org/doi/10.1287/ijds.2020.003)
 > An IJDS paper will have four ingredients, data + methodology + decisions + implications, but the key is the synthesis of the ingredients, anchored to methodology. Here is one potential approach for such synthesis that will be familiar to many in our community:
