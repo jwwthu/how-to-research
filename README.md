@@ -98,6 +98,11 @@ This is the repository for the collection of instrunctions about how to research
 #### [How to write a good article-Federal University of Rio de Janeiro, Brazil-Eloísa Martín](https://journals.sagepub.com/doi/full/10.1177/0011392114556034)
 > This article presents the main challenges of academic writing and publication in scientific journals. It reveals some of the most common mistakes in the process of manuscript submission and review, and offers some possible solutions.
 
+#### [How to Write a Research Manuscript-Washington University in St. Louis-Deborah J. Frank](https://currentprotocols.onlinelibrary.wiley.com/doi/pdf/10.1002/cpet.20)
+> This article provides a step-by-step guide to help you turn your high-quality data into a high-quality manuscript for publication in a scientific journal. It covers all aspects of the writing process, including: choosing a journal to which to submit your paper, writing each section, formulating your “story,” making figures, soliciting constructive criticism, and navigating the review process.
+
+#### [Strategies for writing a research paper-José António C. Santos, Margarida Custódio Santos](http://tmstudies.net/index.php/ectms/article/view/752)
+
 #### [PaperWritingTips (in Chinese)](https://github.com/cooelf/PaperWritingTips)
 
 #### [摘要与引言基本要求 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490721&idx=1&sn=54d97db25fc68b4be1dcd12321df5a1b)
@@ -142,8 +147,16 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [peer reviewing your first paper](https://patthomson.net/2019/10/14/reviewing-your-first-paper/)
 
+#### VALSE webinar 20200710
+* [Video (Bilibili)](https://www.bilibili.com/video/BV1yt4y1Q73k)
+* [Website (in Chinese)](http://valser.org/article-373-1.html)
+* [How to Properly Review AI Papers?-University of Rochester-Jiebo Luo (Slides)](http://valser.org/webinar/slide/slides/20200710/howtoproperlyreviewaipapers-200710022751.pdf)
+* [How to Get Your CVPR Paper Rejected?-University of California at Merced-Ming-Hsuan Yang (Slides)](http://valser.org/webinar/slide/slides/20200710/Ming-Hsuan%20Yang_How-to-get-your-CVPR-paper-rejected.pptx.pdf)
+* [Chinese Summary](https://mp.weixin.qq.com/s?__biz=MzA3Mjk0OTgyMg==&mid=2651125480&idx=1&sn=322917a30d24ce886d413679255aa4be)
+
 ## Scientific Talk
-#### [Boosting the signal in scientific talks](https://www.nature.com/articles/d41586-020-00838-3) [Chinese Translation](http://news.sciencenet.cn/htmlnews/2020/7/443395.shtm)
+#### [Boosting the signal in scientific talks](https://www.nature.com/articles/d41586-020-00838-3)
+* [Chinese Translation](http://news.sciencenet.cn/htmlnews/2020/7/443395.shtm)
 > + Read the room.
 > + Be clear about your main message.
 > + Deliver your takeaway at the start.
