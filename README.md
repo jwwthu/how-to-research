@@ -16,9 +16,27 @@ This is the repository for the collection of instrunctions about how to research
 >> + Find financial support.
 >> + Always think about the big picture.
 
+#### [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/)
+> 1. Read broadly.
+> 2. Work on two things.
+> 3. Be ambitious.
+> 4. Collaborate.
+> 5. Be proactive.
+> 6. Write a blog.
+> 7. Keep a source of positive energy.
+> 8. Play to your strengths.
+> 9. Intern or visit a university.
+> 10. Play the long game.
+
+#### [Advice for Academic Research-Northwestern University-Ricardo Dahis](https://www.ricardodahis.com/files/papers/Dahis_Advice_Research.pdf)
+
 #### [How to research-中科大-周正阳 (in Chinese)](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf)
 
-#### [专访＠爱可可-爱生活：如何做好科学研究（干货满满）(in Chinese)](https://new.qq.com/omn/20210417/20210417A07I2000.html)
+#### [专访＠爱可可-爱生活：如何做好科学研究（干货满满）-北邮-陈光 (in Chinese)](https://new.qq.com/omn/20210417/20210417A07I2000.html)
+
+## Paper Reading
+#### [How to Read a Paper-University of Waterloo-S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+> Researchers spend a great deal of time reading research papers. However, this skill is rarely taught, leading to much wasted effort. This article outlines a practical and efficient three-pass method for reading research papers. I also describe how to use this method to do a literature survey.
 
 ## Paper Writing
 #### MIT Biological Engineering Communication Lab: How to go about writing a paper. 
@@ -52,11 +70,14 @@ This is the repository for the collection of instrunctions about how to research
     > - Show minimal essential data
     > - Use appropriate style
 
+
 #### Springer Nature Author tutorials: [Writing a journal manuscript](https://www.springernature.com/gp/authors/campaigns/writing-a-manuscript)
 > By the end of the tutorial you should know on how to:
 >> + Prepare prior to starting your research
 >> + Structure your manuscript and what to include in each section
 >> + Get the most out of your tables and figures so that they clearly represent your most important results.
+
+#### IEEE Author Education course: [Tips for Responding to Reviewers' Comments (video)](https://ieeetv18.ieee.org/video/tips-for-responding-to-reviewers-comments)
 
 #### [How To Write an Awesome Abstract](https://bitesizebio.com/13661/how-to-write-an-awesome-abstract/)
 > + Background (2-3 sentences): Provide just enough background to “set the scene” – the bare minimum necessary to make what follows understandable.
@@ -74,10 +95,14 @@ This is the repository for the collection of instrunctions about how to research
 > 7. Don’t Introduce a New Piece of Data
 > 8. Don’t Use Too Much Jargon
 
+#### [How to write a good article-Federal University of Rio de Janeiro, Brazil-Eloísa Martín](https://journals.sagepub.com/doi/full/10.1177/0011392114556034)
+> This article presents the main challenges of academic writing and publication in scientific journals. It reveals some of the most common mistakes in the process of manuscript submission and review, and offers some possible solutions.
 
 #### [PaperWritingTips (in Chinese)](https://github.com/cooelf/PaperWritingTips)
 
 #### [摘要与引言基本要求 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490721&idx=1&sn=54d97db25fc68b4be1dcd12321df5a1b)
+
+#### [论文引言撰写与投稿自查-北交大-贺正冰 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzkxMDE5MjgzMw==&mid=2247485707&idx=1&sn=df197290e0f7fb8d5f66f57c878ef8d5)
 
 ## Scientific Talk
 #### [Boosting the signal in scientific talks](https://www.nature.com/articles/d41586-020-00838-3) [Chinese Translation](http://news.sciencenet.cn/htmlnews/2020/7/443395.shtm)
