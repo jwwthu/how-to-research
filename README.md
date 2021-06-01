@@ -74,6 +74,7 @@ This is the repository for the collection of instrunctions about how to research
 > 7. Don’t Introduce a New Piece of Data
 > 8. Don’t Use Too Much Jargon
 
+
 #### [PaperWritingTips (in Chinese)](https://github.com/cooelf/PaperWritingTips)
 
 #### [摘要与引言基本要求 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490721&idx=1&sn=54d97db25fc68b4be1dcd12321df5a1b)
@@ -98,3 +99,12 @@ This is the repository for the collection of instrunctions about how to research
 #### [INFORMS Journal on Data Science (IJDS) Editorial #1: What Is an IJDS Paper?](https://pubsonline.informs.org/doi/10.1287/ijds.2020.003)
 > An IJDS paper will have four ingredients, data + methodology + decisions + implications, but the key is the synthesis of the ingredients, anchored to methodology. Here is one potential approach for such synthesis that will be familiar to many in our community:
 >> Fired by a managerial/industrial decision-making motivation and potential/actual impact, the paper introduces aninnovative data sciencemethodology (model/algorithm/ approach), applies it to data (real-world and/or simulated) to illustrate its usefulness and behavior, and considers practical (e.g., computation, implementation) and ethical (e.g., societal, environmental) implications.
+
+#### IEEE Author Biography Guide
+> Each author may include a photo and biography in their article, although photos and biographies are often omitted from conference-related articles. Follow these tips for writing your biography.
+>> + If you are an IEEE member, list your status and the corresponding year in parentheses immediately after your name; for example, (M'01-SM'05-F'15) denotes that you became an IEEE Member (M) in 2001, a Senior Member (SM) in 2005, and a Fellow (F) in 2015.
+>> + The first paragraph may contain your place and/or date of birth, followed by your educational background. Degrees should be listed with the type of degree in what field, which institutions, city, state, and country, and the year the degree was earned. Your major field of study should be in the lower-case.
+>> + The second paragraph lists military and work experience, with job titles capitalized. Include a location for your current job. List no more than three published books or articles. Include a list of current and previous research interests. In the second paragraph, use the appropriate pronoun and not your last name.
+>> + The third paragraph begins with your title and last name (e.g., Dr. Smith, Prof. Chen) and lists any memberships in professional societies other than IEEE. List any awards and work for IEEE committees and publications.
+>> + If you choose to include a photo, it should be a professional, high-quality headshot. Note that while photos are optional, if they are included, they will be published.
+>> + Remember, biographies and photos cannot be edited or removed after article publication.
