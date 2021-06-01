@@ -16,6 +16,10 @@ This is the repository for the collection of instrunctions about how to research
 >> + Find financial support.
 >> + Always think about the big picture.
 
+* [How to research-中科大-周正阳 (in Chinese)](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf)
+
+* [专访＠爱可可-爱生活：如何做好科学研究（干货满满）(in Chinese)](https://new.qq.com/omn/20210417/20210417A07I2000.html)
+
 ## Paper Writing
 * MIT Biological Engineering Communication Lab: How to go about writing a paper. *Comment: Highly Recommneded. Practical Formula with Annotated Examples*
     + [General Tips](https://mitcommlab.mit.edu/broad/commkit/general-tips/)
