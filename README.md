@@ -4,10 +4,10 @@ This is the repository for the collection of instrunctions about how to research
 ## General Suggestion
 * [A student’s guide to undergraduate research](https://www.nature.com/articles/d41586-019-00871-x)
 > 1. Choose the right lab
->> + Learn to think like a scientist.
->> + Look for questions, not subjects.
->> + Mentoring is as important as research.
->> + Reach out with confidence.
+>> - Learn to think like a scientist.
+>> - Look for questions, not subjects.
+>> - Mentoring is as important as research.
+>> - Reach out with confidence.
 > 2. Get the most out of the experience
 >> + Start your research with reading, and keep on reading.
 >> + Set specific goals for yourself and let your mentors know.
