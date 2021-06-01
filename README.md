@@ -19,7 +19,7 @@ This is the repository for the collection of instrunctions about how to research
 ## Paper Writing
 * MIT Biological Engineering Communication Lab: How to go about writing a paper. *Comment: Highly Recommneded. Practical Formula with Annotated Examples*
     + [General Tips](https://mitcommlab.mit.edu/broad/commkit/general-tips/)
-    + [Abstract][https://mitcommlab.mit.edu/broad/commkit/journal-article-abstract/]
+    + [Abstract](https://mitcommlab.mit.edu/broad/commkit/journal-article-abstract/)
         - General and Specific Background (~1 sentence each). Introduce the area of science that you will be speaking about and the state of knowledge in that area. Start broad in the general background, then narrow in on the relevant topic that will be pursued in the paper. If you use jargon, be sure to very briefly define it.
         - Knowledge Gap (~1 sentence). Now that you’ve stated what is already known, state what is not known. What specific question is your work attempting to answer?
         - “Here we show…” (~1 sentence). State your general experimental approach and the answer to the question which you just posed in the “Knowledge Gap” section.
@@ -31,6 +31,19 @@ This is the repository for the collection of instrunctions about how to research
         - Knowledge Gap. After discussing what we know, articulate what we do not know, specifically focusing on the question that has motivated your work.
         - “Here we show…” Very briefly summarize your methods and findings.
     + [Methods](https://mitcommlab.mit.edu/broad/commkit/journal-article-methods/)
+        - State the reasons for choosing your methodology
+        - Use subheadings to organize content
+        - Provide minimal essential detail
+        - Avoid “we did…” or “the authors did…”
+    + [Discussion](https://mitcommlab.mit.edu/broad/commkit/journal-article-discussion/)
+        - Tell how your paper is special
+        - Relate your results to existing results
+        - Tell how your study’s limitations leave open the big questions
+    + [Results](https://mitcommlab.mit.edu/broad/commkit/journal-article-results/)
+        - Create a logical narrative, organized into subsections
+        - Each Results paragraph has rationale, data, and a transition
+        - Show minimal essential data
+        - Use appropriate style
 
 * Springer Nature Author tutorials: [Writing a journal manuscript](https://www.springernature.com/gp/authors/campaigns/writing-a-manuscript)
 > By the end of the tutorial you should know on how to:
