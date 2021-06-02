@@ -154,7 +154,7 @@ This is the repository for the collection of instrunctions about how to research
 
 ## Paper Review and Response
 #### [4 Archetype Reasons for Editorial Rejection](https://www.sciencedirect.com/science/article/pii/S2590238519303923)
-* Chinese Summary(https://mp.weixin.qq.com/s?__biz=MzIyMjYzMzAxNw==&mid=2247527858&idx=5&sn=63da2c0c4f84de8614543eb80321292e)
+* [Chinese Summary](https://mp.weixin.qq.com/s?__biz=MzIyMjYzMzAxNw==&mid=2247527858&idx=5&sn=63da2c0c4f84de8614543eb80321292e)
 > What makes an innovative materials study? Conceptual novelty is intrinsically difficult to quantify. There are common pitfalls that lead to rejection without review, leading to an editorial shorthand of archetype rejections. Here, we describe the most common reasons for rejection at Matter.
 
 #### IEEE Author Education course: [Tips for Responding to Reviewers' Comments (video)](https://ieeetv18.ieee.org/video/tips-for-responding-to-reviewers-comments)
