@@ -152,6 +152,9 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [机器翻译学术论文写作方法和技巧-清华大学-刘洋](https://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 
+#### [刘洋：如何撰写高质量科技论文](https://mp.weixin.qq.com/s?__biz=MzI0NDg0OTI1MQ==&mid=2247486447&idx=3&sn=1afbe202e5d755b35ea694bc79c22dd0)
+* [Tencent Video](https://v.qq.com/x/page/a3250eeli4t.html)
+
 ## Paper Review and Response
 #### [4 Archetype Reasons for Editorial Rejection](https://www.sciencedirect.com/science/article/pii/S2590238519303923)
 * [Chinese Summary](https://mp.weixin.qq.com/s?__biz=MzIyMjYzMzAxNw==&mid=2247527858&idx=5&sn=63da2c0c4f84de8614543eb80321292e)
