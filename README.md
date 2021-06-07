@@ -109,6 +109,8 @@ This is the repository for the collection of instrunctions about how to research
 #### [How to write a good article-Federal University of Rio de Janeiro, Brazil-Eloísa Martín](https://journals.sagepub.com/doi/full/10.1177/0011392114556034)
 > This article presents the main challenges of academic writing and publication in scientific journals. It reveals some of the most common mistakes in the process of manuscript submission and review, and offers some possible solutions.
 
+#### [The Introduction Formula-UBC-Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula)
+
 #### [How to Write a Research Manuscript-Washington University in St. Louis-Deborah J. Frank](https://currentprotocols.onlinelibrary.wiley.com/doi/pdf/10.1002/cpet.20)
 > This article provides a step-by-step guide to help you turn your high-quality data into a high-quality manuscript for publication in a scientific journal. It covers all aspects of the writing process, including: choosing a journal to which to submit your paper, writing each section, formulating your “story,” making figures, soliciting constructive criticism, and navigating the review process.
 
