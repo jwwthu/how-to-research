@@ -32,6 +32,10 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [Syllabus for Eric's PhD students (Google docs)](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 
+#### Perspectives on Research Productivity-UCSD-Xinyu Zhang
+* [Youtube Video Link](https://www.youtube.com/watch?v=p7cwSXgyKZg)
+* [Chinese Notest](https://blog.csdn.net/yq_forever/article/details/90451741)
+
 #### [How to research-中科大-周正阳 (in Chinese)](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf)
 
 #### [专访＠爱可可-爱生活：如何做好科学研究（干货满满）-北邮-陈光](https://new.qq.com/omn/20210417/20210417A07I2000.html)
