@@ -115,6 +115,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [The Introduction Formula-UBC-Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula)
 
+#### [How to Write a Scientific Paper-PagePress](https://www.pagepress.org/public/How_to_write_a_scientific_paper.pdf)
+
 #### [How to Write a Research Manuscript-Washington University in St. Louis-Deborah J. Frank](https://currentprotocols.onlinelibrary.wiley.com/doi/pdf/10.1002/cpet.20)
 > This article provides a step-by-step guide to help you turn your high-quality data into a high-quality manuscript for publication in a scientific journal. It covers all aspects of the writing process, including: choosing a journal to which to submit your paper, writing each section, formulating your “story,” making figures, soliciting constructive criticism, and navigating the review process.
 
