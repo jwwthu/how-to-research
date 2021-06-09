@@ -34,7 +34,7 @@ This is the repository for the collection of instrunctions about how to research
 
 #### Perspectives on Research Productivity-UCSD-Xinyu Zhang
 * [Youtube Video Link](https://www.youtube.com/watch?v=p7cwSXgyKZg)
-* [Chinese Notest](https://blog.csdn.net/yq_forever/article/details/90451741)
+* [Chinese Notes](https://blog.csdn.net/yq_forever/article/details/90451741)
 
 #### [How to research-中科大-周正阳 (in Chinese)](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf)
 
