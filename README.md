@@ -40,6 +40,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [专访＠爱可可-爱生活：如何做好科学研究（干货满满）-北邮-陈光](https://new.qq.com/omn/20210417/20210417A07I2000.html)
 
+#### 如何做研究与写论文？-南京大学-周志华教授(in Files folder: research_and_paper_zhou_zhihua_2007_ppt.pdf)
+
 #### [实例分享| 导师书写的PhD Proposal（博士研究提案）](https://mp.weixin.qq.com/s?__biz=MzA5ODcwNTQxMA==&mid=2650854069&idx=2&sn=7cc68999f2b57b2595b2bad41b6ae855)
 
 #### [如何书写选题报告](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490286&idx=1&sn=00fa9d7ee91bd5b0251edc45b79c5e7e)
@@ -114,6 +116,8 @@ This is the repository for the collection of instrunctions about how to research
 > This article presents the main challenges of academic writing and publication in scientific journals. It reveals some of the most common mistakes in the process of manuscript submission and review, and offers some possible solutions.
 
 #### [The Introduction Formula-UBC-Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula)
+
+#### [The Baldwin Formula for scientific writing: writing papers and reviews](https://www.ice.mpg.de/ext/fileadmin/extranet/dept_itb/The_Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf)
 
 #### [How to Write a Scientific Paper-PagePress](https://www.pagepress.org/public/How_to_write_a_scientific_paper.pdf)
 
