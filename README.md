@@ -30,6 +30,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [Advice for Academic Research-Northwestern University-Ricardo Dahis](https://www.ricardodahis.com/files/papers/Dahis_Advice_Research.pdf)
 
+#### [Advice on Research and Writing-University of Maryland-Mark Leone](https://www.cs.cmu.edu/~mleone/how-to.html)
+
 #### [Syllabus for Eric's PhD students (Google docs)](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 
 #### Perspectives on Research Productivity-UCSD-Xinyu Zhang
@@ -41,6 +43,8 @@ This is the repository for the collection of instrunctions about how to research
 #### [专访＠爱可可-爱生活：如何做好科学研究（干货满满）-北邮-陈光](https://new.qq.com/omn/20210417/20210417A07I2000.html)
 
 #### 如何做研究与写论文？-南京大学-周志华教授(in Files folder: research_and_paper_zhou_zhihua_2007_ppt.pdf)
+
+#### [如何在顶尖期刊上发表论文？](https://core.ac.uk/download/pdf/41460262.pdf)
 
 #### [实例分享| 导师书写的PhD Proposal（博士研究提案）](https://mp.weixin.qq.com/s?__biz=MzA5ODcwNTQxMA==&mid=2650854069&idx=2&sn=7cc68999f2b57b2595b2bad41b6ae855)
 
@@ -115,6 +119,8 @@ This is the repository for the collection of instrunctions about how to research
 #### [How to write a good article-Federal University of Rio de Janeiro, Brazil-Eloísa Martín](https://journals.sagepub.com/doi/full/10.1177/0011392114556034)
 > This article presents the main challenges of academic writing and publication in scientific journals. It reveals some of the most common mistakes in the process of manuscript submission and review, and offers some possible solutions.
 
+#### [Technical writing-Columbia University-Henning Schulzrinne](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)
+
 #### [The Introduction Formula-UBC-Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula)
 
 #### [The Baldwin Formula for scientific writing: writing papers and reviews](https://www.ice.mpg.de/ext/fileadmin/extranet/dept_itb/The_Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf)
@@ -137,6 +143,12 @@ This is the repository for the collection of instrunctions about how to research
 * [Chinese Translation](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247526117&idx=4&sn=5a8a6295265e0f634659aaf8bdf00606)
 
 #### [Strategies for writing a research paper-José António C. Santos, Margarida Custódio Santos](http://tmstudies.net/index.php/ectms/article/view/752)
+
+#### [How to write a great abstract for your academic manuscript, Social Sciences & Humanities Open, Elsevier, September 2020](https://www.journals.elsevier.com/social-sciences-and-humanities-open/policies-and-guidelines/how-to-write-a-great-abstract-for-your-academic-manuscript)
+* [Chinese Translation](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247491546&idx=1&sn=c0a042c732f018746cd828a479d9a1c3)
+
+#### [The Microsoft 365 team, How to write an introduction for a research paper, May 29, 2020](https://www.microsoft.com/en-us/microsoft-365/everyday-tips-ideas/resources/how-to-write-an-introduction-for-a-research-paper)
+* [Chinese Translation](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247491551&idx=1&sn=6bafb919d5a8ea412b6ceed2d7095fd2)
 
 #### [PaperWritingTips (in Chinese)](https://github.com/cooelf/PaperWritingTips)
 
