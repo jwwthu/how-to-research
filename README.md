@@ -156,6 +156,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [摘要与引言基本要求](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490721&idx=1&sn=54d97db25fc68b4be1dcd12321df5a1b)
 
+#### [论文七大部分应包含哪些内容](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247491557&idx=1&sn=60e096482ba5719572ab171071342300)
+
 #### [论文引言撰写与投稿自查-北交大-贺正冰](https://mp.weixin.qq.com/s?__biz=MzkxMDE5MjgzMw==&mid=2247485707&idx=1&sn=df197290e0f7fb8d5f66f57c878ef8d5)
 
 #### [【实用工具】技术人如何写好英文论文？](https://mp.weixin.qq.com/s?__biz=MzIyNDY5NjEzNQ==&mid=2247487572&idx=1&sn=d5677c80a6d5a2087a2ec2f523fc9a53)
