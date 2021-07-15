@@ -34,6 +34,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [Syllabus for Eric's PhD students (Google docs)](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 
+#### [A repo for open resources & information for people to succeed in PhD in CS & career in AI / NLP](https://github.com/zhijing-jin/nlp-phd-global-equality)
+
 #### Perspectives on Research Productivity-UCSD-Xinyu Zhang
 * [Youtube Video Link](https://www.youtube.com/watch?v=p7cwSXgyKZg)
 * [Chinese Notes](https://blog.csdn.net/yq_forever/article/details/90451741)
@@ -118,6 +120,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [How to write a good article-Federal University of Rio de Janeiro, Brazil-Eloísa Martín](https://journals.sagepub.com/doi/full/10.1177/0011392114556034)
 > This article presents the main challenges of academic writing and publication in scientific journals. It reveals some of the most common mistakes in the process of manuscript submission and review, and offers some possible solutions.
+
+#### [Writing articles for scientific journals: a basic guide-J.W.Stirling](https://www.aims.org.au/documents/item/615)
 
 #### [Technical writing-Columbia University-Henning Schulzrinne](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)
 
