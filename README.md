@@ -123,6 +123,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [Writing articles for scientific journals: a basic guide-J.W.Stirling](https://www.aims.org.au/documents/item/615)
 
+#### [Some writing tips for scientific papers – McGill University - Andrew Hendry](https://redpath-staff.mcgill.ca/hendry/writingtips.pdf)
+
 #### [Technical writing-Columbia University-Henning Schulzrinne](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)
 
 #### [The Introduction Formula-UBC-Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula)
