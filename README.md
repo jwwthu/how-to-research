@@ -118,6 +118,20 @@ This is the repository for the collection of instrunctions about how to research
 > 7. Don’t Introduce a New Piece of Data
 > 8. Don’t Use Too Much Jargon
 
+#### [Twelve tips for students who wish to write and publish-University of Exeter Medical School-Rajaei K Sharma & Harriet L Ogle](https://www.tandfonline.com/doi/full/10.1080/0142159X.2021.1908977)
+> (1) find your why;
+> (2) play to your strengths and be realistic;
+> (3) be well read;
+> (4) revisit missed opportunities;
+> (5) talk to the doctors around you;
+> (6) broaden your horizons;
+> (7) get to grips with the submission process early;
+> (8) pay attention to the details;
+> (9) remember that submission is not the end;
+> (10) the process can’t be rushed;
+> (11) consider the alternative paths to presenting research;
+> (12) start writing.
+
 #### [How to write a good article-Federal University of Rio de Janeiro, Brazil-Eloísa Martín](https://journals.sagepub.com/doi/full/10.1177/0011392114556034)
 > This article presents the main challenges of academic writing and publication in scientific journals. It reveals some of the most common mistakes in the process of manuscript submission and review, and offers some possible solutions.
 
