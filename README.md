@@ -52,6 +52,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [如何书写选题报告](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247490286&idx=1&sn=00fa9d7ee91bd5b0251edc45b79c5e7e)
 
+#### [如何读一个PhD？](https://github.com/shengyp/doing_the_PhD)
+
 ## Paper Reading
 #### [How to Read a Paper-University of Waterloo-S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 > Researchers spend a great deal of time reading research papers. However, this skill is rarely taught, leading to much wasted effort. This article outlines a practical and efficient three-pass method for reading research papers. I also describe how to use this method to do a literature survey.
@@ -147,6 +149,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [How to Write a Scientific Paper-PagePress](https://www.pagepress.org/public/How_to_write_a_scientific_paper.pdf)
 
+#### [How to Write a Research Paper-Department of Computer Science-University of Illinois at Chicago-Natalie Parde](https://www.natalieparde.com/files/how_to_write_a_research_paper.pdf)
+
 #### [How to Write a Research Manuscript-Washington University in St. Louis-Deborah J. Frank](https://currentprotocols.onlinelibrary.wiley.com/doi/pdf/10.1002/cpet.20)
 > This article provides a step-by-step guide to help you turn your high-quality data into a high-quality manuscript for publication in a scientific journal. It covers all aspects of the writing process, including: choosing a journal to which to submit your paper, writing each section, formulating your “story,” making figures, soliciting constructive criticism, and navigating the review process.
 
@@ -182,6 +186,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [【实用工具】技术人如何写好英文论文？](https://mp.weixin.qq.com/s?__biz=MzIyNDY5NjEzNQ==&mid=2247487572&idx=1&sn=d5677c80a6d5a2087a2ec2f523fc9a53)
 
+#### [论文投稿前的5项自评工作](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247491665&idx=1&sn=51b1e00716366b6a9c3f0d556cbebe6a)
+
 ### Computer Science Case
 #### [INFORMS Journal on Data Science (IJDS) Editorial #1: What Is an IJDS Paper?](https://pubsonline.informs.org/doi/10.1287/ijds.2020.003)
 > An IJDS paper will have four ingredients, data + methodology + decisions + implications, but the key is the synthesis of the ingredients, anchored to methodology. Here is one potential approach for such synthesis that will be familiar to many in our community:
@@ -196,10 +202,14 @@ This is the repository for the collection of instrunctions about how to research
 >> + If you choose to include a photo, it should be a professional, high-quality headshot. Note that while photos are optional, if they are included, they will be published.
 >> + Remember, biographies and photos cannot be edited or removed after article publication.
 
+#### [How to Write a Good ISSCC Paper (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzUyNDkzODAxOQ==&mid=2247484354&idx=1&sn=1a156ee452a1e83560c9a7b4ada98220)
+
 #### [机器翻译学术论文写作方法和技巧-清华大学-刘洋](https://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 
 #### [刘洋：如何撰写高质量科技论文](https://mp.weixin.qq.com/s?__biz=MzI0NDg0OTI1MQ==&mid=2247486447&idx=3&sn=1afbe202e5d755b35ea694bc79c22dd0)
 * [Tencent Video](https://v.qq.com/x/page/a3250eeli4t.html)
+
+#### [北京大学施柏鑫：从审稿人视角，谈谈怎么写一篇CVPR论文](https://mp.weixin.qq.com/s/YN3Ij_4gBxaWVRHn14va4w)
 
 ## Paper Review and Response
 #### [4 Archetype Reasons for Editorial Rejection](https://www.sciencedirect.com/science/article/pii/S2590238519303923)
