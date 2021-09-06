@@ -171,6 +171,11 @@ This is the repository for the collection of instrunctions about how to research
 #### [How to write a great abstract for your academic manuscript, Social Sciences & Humanities Open, Elsevier, September 2020](https://www.journals.elsevier.com/social-sciences-and-humanities-open/policies-and-guidelines/how-to-write-a-great-abstract-for-your-academic-manuscript)
 * [Chinese Translation](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247491546&idx=1&sn=c0a042c732f018746cd828a479d9a1c3)
 
+#### [Writing for Impact: How to Prepare a Journal Article, Medical and Scientific Publishing, Elsevier, August 2018](https://www.sciencedirect.com/science/article/pii/B9780128099698000097)
+* [Chinese Translation](https://mp.weixin.qq.com/s/Hq1Gqpe1uRBQCzXu3_n3zg)
+
+#### [Common mistakes in technical writing-Dartmouth College-Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/writing.md.html)
+
 #### [The Microsoft 365 team, How to write an introduction for a research paper, May 29, 2020](https://www.microsoft.com/en-us/microsoft-365/everyday-tips-ideas/resources/how-to-write-an-introduction-for-a-research-paper)
 * [Chinese Translation](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247491551&idx=1&sn=6bafb919d5a8ea412b6ceed2d7095fd2)
 
