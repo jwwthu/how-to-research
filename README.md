@@ -36,6 +36,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [A repo for open resources & information for people to succeed in PhD in CS & career in AI / NLP](https://github.com/zhijing-jin/nlp-phd-global-equality)
 
+#### [UCLA Library Research Tips-Tutorials and Videos](https://uclalibrary.github.io/research-tips/tutorials/)
+
 #### Perspectives on Research Productivity-UCSD-Xinyu Zhang
 * [Youtube Video Link](https://www.youtube.com/watch?v=p7cwSXgyKZg)
 * [Chinese Notes](https://blog.csdn.net/yq_forever/article/details/90451741)
