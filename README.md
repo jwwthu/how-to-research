@@ -139,6 +139,8 @@ This is the repository for the collection of instrunctions about how to research
 #### [How to write a good article-Federal University of Rio de Janeiro, Brazil-Eloísa Martín](https://journals.sagepub.com/doi/full/10.1177/0011392114556034)
 > This article presents the main challenges of academic writing and publication in scientific journals. It reveals some of the most common mistakes in the process of manuscript submission and review, and offers some possible solutions.
 
+#### [8 sequential steps to write a first rough draft of a research paper from start to finish (relatively quick and easy)](http://www.raulpacheco.org/2016/04/8-tips-to-write-a-research-paper-from-start-to-finish-relatively-quick-and-easy/)
+
 #### [Writing articles for scientific journals: a basic guide-J.W.Stirling](https://www.aims.org.au/documents/item/615)
 
 #### [Some writing tips for scientific papers – McGill University - Andrew Hendry](https://redpath-staff.mcgill.ca/hendry/writingtips.pdf)
