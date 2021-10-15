@@ -32,6 +32,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [Advice on Research and Writing-University of Maryland-Mark Leone](https://www.cs.cmu.edu/~mleone/how-to.html)
 
+#### [Advice - A repository of links with advice related to grad school applications, research, phd etc related to (usually but not always) CS, NLP, and ML.](https://github.com/shaily99/advice#networking)
+
 #### [Syllabus for Eric's PhD students (Google docs)](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 
 #### [A repo for open resources & information for people to succeed in PhD in CS & career in AI / NLP](https://github.com/zhijing-jin/nlp-phd-global-equality)
