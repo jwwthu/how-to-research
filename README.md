@@ -187,6 +187,15 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [Becoming a research writer](https://sites.rmit.edu.au/graduateresearcherknowhow/becoming-a-research-writer/)
 
+#### [Writing Research Articles for Publication](https://languages.ait.ac.th/wp-content/uploads/sites/18/2018/08/Writing-Research-Articles-for-Publication1.pdf)
+
+#### English for Writing Research Papers (in Files folder)
+> Useful Phrases - Chapter 19 - English for Writing Research Papers-version-1
+
+#### RESEARCH WRITING: STARTER PHRASES (in Files folder)
+
+#### Thesis and Dissertation Writing Workshop Part II (in Files folder)
+
 #### [PaperWritingTips (in Chinese)](https://github.com/cooelf/PaperWritingTips)
 
 #### [长江学者程啸：如何写好文献综述？](https://mp.weixin.qq.com/s?__biz=Mzg5MjU2NjY5OA==&mid=2247491346&idx=1&sn=a5a3f79f37ce766c59e285c2a6c0c1b5)
@@ -279,3 +288,8 @@ This is the repository for the collection of instrunctions about how to research
 > + Explain your figures. 
 > + Write ‘sentence headline’ titles.
 > + Use a lot of slides if you want.
+
+#### [How to speak](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
+
+## Others
+#### [Learn reproduce papers beginners guide](https://www.kdnuggets.com/2021/10/learn-reproduce-papers-beginners-guide.html)
