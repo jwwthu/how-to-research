@@ -185,6 +185,8 @@ This is the repository for the collection of instrunctions about how to research
 #### [The Microsoft 365 team, How to write an introduction for a research paper, May 29, 2020](https://www.microsoft.com/en-us/microsoft-365/everyday-tips-ideas/resources/how-to-write-an-introduction-for-a-research-paper)
 * [Chinese Translation](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNzk3NA==&mid=2247491551&idx=1&sn=6bafb919d5a8ea412b6ceed2d7095fd2)
 
+#### [Becoming a research writer](https://sites.rmit.edu.au/graduateresearcherknowhow/becoming-a-research-writer/)
+
 #### [PaperWritingTips (in Chinese)](https://github.com/cooelf/PaperWritingTips)
 
 #### [长江学者程啸：如何写好文献综述？](https://mp.weixin.qq.com/s?__biz=Mzg5MjU2NjY5OA==&mid=2247491346&idx=1&sn=a5a3f79f37ce766c59e285c2a6c0c1b5)
