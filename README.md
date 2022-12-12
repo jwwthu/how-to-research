@@ -1,6 +1,9 @@
 # Research-related Resources
 This is the repository for the collection of instrunctions about how to research.
 
+## Relevant Courses
+#### [学术规范与论文写作-程明明-南开大学](https://mmcheng.net/writing/)
+
 ## General Suggestion
 #### [A student’s guide to undergraduate research](https://www.nature.com/articles/d41586-019-00871-x)
 > 1. Choose the right lab
