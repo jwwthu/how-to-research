@@ -61,6 +61,8 @@ This is the repository for the collection of instrunctions about how to research
 
 #### [如何读一个PhD？](https://github.com/shengyp/doing_the_PhD)
 
+#### [微博JaneMere-科研生活的讲座的ppt-20210620](https://weibo.com/1212052111/Kl9HUvAGA)
+
 ## Paper Reading
 #### [How to Read a Paper-University of Waterloo-S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 > Researchers spend a great deal of time reading research papers. However, this skill is rarely taught, leading to much wasted effort. This article outlines a practical and efficient three-pass method for reading research papers. I also describe how to use this method to do a literature survey.
