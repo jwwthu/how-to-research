@@ -3,7 +3,7 @@ This is the repository for the collection of instrunctions about how to research
 
 ## Relevant Courses
 #### [学术规范与论文写作-程明明-南开大学](https://mmcheng.net/writing/)
-#### [CCF-Shenzhen-学术论文审稿及撰写经验分享-Haijun Zhang-哈尔滨工业大学深圳研究生院.pdf](https://www.dl2link.com/Academic%20Writing.pdf)
+#### [CCF-Shenzhen-学术论文审稿及撰写经验分享-张海军-哈尔滨工业大学深圳研究生院.pdf](https://www.dl2link.com/Academic%20Writing.pdf)
 
 ## General Suggestion
 #### [A student’s guide to undergraduate research](https://www.nature.com/articles/d41586-019-00871-x)
