@@ -222,6 +222,9 @@ This is the repository for the collection of instrunctions about how to research
 
 #### "听JEBO主编Daniel Houser讲论文写作。关于摘要，他说他心中的标准摘要应该有五句，第一句是论文在文献里的定位，第二句是这篇文章做什么，第三句是为什么做，第四句是发现了什么，第五句是这些发现有什么意义。然后这五句其实各自对应文章的一部分，第一句是引言，第二句是研究设计，第三句是待检验假设或文献讨论，第四句是研究结果，第五句是结论。也就是说，摘要每一句话都是正文一个部分的总结。" （忘记出处了）
 
+#### [PRISMA 2020 Checklist](https://www.prisma-statement.org/prisma-2020-checklist)
+> The PRISMA 2020 statement comprises a 27-item checklist addressing the introduction, methods, results and discussion sections of a systematic review report.
+
 ### Computer Science Case
 #### [INFORMS Journal on Data Science (IJDS) Editorial #1: What Is an IJDS Paper?](https://pubsonline.informs.org/doi/10.1287/ijds.2020.003)
 > An IJDS paper will have four ingredients, data + methodology + decisions + implications, but the key is the synthesis of the ingredients, anchored to methodology. Here is one potential approach for such synthesis that will be familiar to many in our community:
